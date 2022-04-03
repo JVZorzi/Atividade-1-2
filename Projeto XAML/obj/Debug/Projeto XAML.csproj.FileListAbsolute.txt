@@ -1,0 +1,78 @@
+C:\Users\2020102011015-4\Documents\Zorzi\Projeto 1\Projeto XAML\Projeto XAML\bin\Debug\Projeto XAML.exe.config
+C:\Users\2020102011015-4\Documents\Zorzi\Projeto 1\Projeto XAML\Projeto XAML\bin\Debug\Projeto XAML.exe
+C:\Users\2020102011015-4\Documents\Zorzi\Projeto 1\Projeto XAML\Projeto XAML\bin\Debug\Projeto XAML.pdb
+C:\Users\2020102011015-4\Documents\Zorzi\Projeto 1\Projeto XAML\Projeto XAML\obj\Debug\Projeto XAML.csproj.AssemblyReference.cache
+C:\Users\2020102011015-4\Documents\Zorzi\Projeto 1\Projeto XAML\Projeto XAML\obj\Debug\Projeto XAML.csproj.SuggestedBindingRedirects.cache
+C:\Users\2020102011015-4\Documents\Zorzi\Projeto 1\Projeto XAML\Projeto XAML\obj\Debug\MainWindow.g.cs
+C:\Users\2020102011015-4\Documents\Zorzi\Projeto 1\Projeto XAML\Projeto XAML\obj\Debug\App.g.cs
+C:\Users\2020102011015-4\Documents\Zorzi\Projeto 1\Projeto XAML\Projeto XAML\obj\Debug\Projeto XAML_MarkupCompile.cache
+C:\Users\2020102011015-4\Documents\Zorzi\Projeto 1\Projeto XAML\Projeto XAML\obj\Debug\Projeto XAML_MarkupCompile.lref
+C:\Users\2020102011015-4\Documents\Zorzi\Projeto 1\Projeto XAML\Projeto XAML\obj\Debug\MainWindow.baml
+C:\Users\2020102011015-4\Documents\Zorzi\Projeto 1\Projeto XAML\Projeto XAML\obj\Debug\Projeto XAML.g.resources
+C:\Users\2020102011015-4\Documents\Zorzi\Projeto 1\Projeto XAML\Projeto XAML\obj\Debug\Projeto_XAML.Properties.Resources.resources
+C:\Users\2020102011015-4\Documents\Zorzi\Projeto 1\Projeto XAML\Projeto XAML\obj\Debug\Projeto XAML.csproj.GenerateResource.cache
+C:\Users\2020102011015-4\Documents\Zorzi\Projeto 1\Projeto XAML\Projeto XAML\obj\Debug\Projeto XAML.csproj.CoreCompileInputs.cache
+C:\Users\2020102011015-4\Documents\Zorzi\Projeto 1\Projeto XAML\Projeto XAML\obj\Debug\Projeto XAML.exe
+C:\Users\2020102011015-4\Documents\Zorzi\Projeto 1\Projeto XAML\Projeto XAML\obj\Debug\Projeto XAML.pdb
+C:\Users\2020102011015-4\Documents\Zorzi\Projeto 1\Projeto XAML\Projeto XAML\obj\Debug\WpfCalculator.g.cs
+C:\Users\2020102011015-4\Documents\Zorzi\Projeto 1\Projeto XAML\Projeto XAML\obj\Debug\WpfCalculator.baml
+D:\pastaaa\Projeto XAML\Projeto XAML\bin\Debug\Projeto XAML.exe.config
+D:\pastaaa\Projeto XAML\Projeto XAML\bin\Debug\Projeto XAML.exe
+D:\pastaaa\Projeto XAML\Projeto XAML\bin\Debug\Projeto XAML.pdb
+D:\pastaaa\Projeto XAML\Projeto XAML\obj\Debug\Projeto XAML.csproj.AssemblyReference.cache
+D:\pastaaa\Projeto XAML\Projeto XAML\obj\Debug\Projeto XAML.csproj.SuggestedBindingRedirects.cache
+D:\pastaaa\Projeto XAML\Projeto XAML\obj\Debug\MainWindow.g.cs
+D:\pastaaa\Projeto XAML\Projeto XAML\obj\Debug\WpfCalculator.g.cs
+D:\pastaaa\Projeto XAML\Projeto XAML\obj\Debug\App.g.cs
+D:\pastaaa\Projeto XAML\Projeto XAML\obj\Debug\Projeto XAML_MarkupCompile.cache
+D:\pastaaa\Projeto XAML\Projeto XAML\obj\Debug\Projeto XAML_MarkupCompile.lref
+D:\pastaaa\Projeto XAML\Projeto XAML\obj\Debug\MainWindow.baml
+D:\pastaaa\Projeto XAML\Projeto XAML\obj\Debug\WpfCalculator.baml
+D:\pastaaa\Projeto XAML\Projeto XAML\obj\Debug\Projeto XAML.g.resources
+D:\pastaaa\Projeto XAML\Projeto XAML\obj\Debug\Projeto_XAML.Properties.Resources.resources
+D:\pastaaa\Projeto XAML\Projeto XAML\obj\Debug\Projeto XAML.csproj.GenerateResource.cache
+D:\pastaaa\Projeto XAML\Projeto XAML\obj\Debug\Projeto XAML.csproj.CoreCompileInputs.cache
+D:\pastaaa\Projeto XAML\Projeto XAML\obj\Debug\Projeto XAML.exe
+D:\pastaaa\Projeto XAML\Projeto XAML\obj\Debug\Projeto XAML.pdb
+D:\pastaaa\Projeto XAML\Projeto XAML\obj\Debug\Window1.g.cs
+D:\pastaaa\Projeto XAML\Projeto XAML\obj\Debug\Window1.baml
+C:\Users\josez\Desktop\git\Atividade-1-2\Projeto XAML\Projeto XAML\bin\Debug\Projeto XAML.exe.config
+C:\Users\josez\Desktop\git\Atividade-1-2\Projeto XAML\Projeto XAML\bin\Debug\Projeto XAML.exe
+C:\Users\josez\Desktop\git\Atividade-1-2\Projeto XAML\Projeto XAML\bin\Debug\Projeto XAML.pdb
+C:\Users\josez\Desktop\git\Atividade-1-2\Projeto XAML\Projeto XAML\obj\Debug\Projeto XAML.csproj.AssemblyReference.cache
+C:\Users\josez\Desktop\git\Atividade-1-2\Projeto XAML\Projeto XAML\obj\Debug\Projeto XAML.csproj.SuggestedBindingRedirects.cache
+C:\Users\josez\Desktop\git\Atividade-1-2\Projeto XAML\Projeto XAML\obj\Debug\MainWindow.g.cs
+C:\Users\josez\Desktop\git\Atividade-1-2\Projeto XAML\Projeto XAML\obj\Debug\Window1.g.cs
+C:\Users\josez\Desktop\git\Atividade-1-2\Projeto XAML\Projeto XAML\obj\Debug\WpfCalculator.g.cs
+C:\Users\josez\Desktop\git\Atividade-1-2\Projeto XAML\Projeto XAML\obj\Debug\App.g.cs
+C:\Users\josez\Desktop\git\Atividade-1-2\Projeto XAML\Projeto XAML\obj\Debug\Projeto XAML_MarkupCompile.cache
+C:\Users\josez\Desktop\git\Atividade-1-2\Projeto XAML\Projeto XAML\obj\Debug\Projeto XAML_MarkupCompile.lref
+C:\Users\josez\Desktop\git\Atividade-1-2\Projeto XAML\Projeto XAML\obj\Debug\MainWindow.baml
+C:\Users\josez\Desktop\git\Atividade-1-2\Projeto XAML\Projeto XAML\obj\Debug\Window1.baml
+C:\Users\josez\Desktop\git\Atividade-1-2\Projeto XAML\Projeto XAML\obj\Debug\WpfCalculator.baml
+C:\Users\josez\Desktop\git\Atividade-1-2\Projeto XAML\Projeto XAML\obj\Debug\Projeto XAML.g.resources
+C:\Users\josez\Desktop\git\Atividade-1-2\Projeto XAML\Projeto XAML\obj\Debug\Projeto_XAML.Properties.Resources.resources
+C:\Users\josez\Desktop\git\Atividade-1-2\Projeto XAML\Projeto XAML\obj\Debug\Projeto XAML.csproj.GenerateResource.cache
+C:\Users\josez\Desktop\git\Atividade-1-2\Projeto XAML\Projeto XAML\obj\Debug\Projeto XAML.csproj.CoreCompileInputs.cache
+C:\Users\josez\Desktop\git\Atividade-1-2\Projeto XAML\Projeto XAML\obj\Debug\Projeto XAML.exe
+C:\Users\josez\Desktop\git\Atividade-1-2\Projeto XAML\Projeto XAML\obj\Debug\Projeto XAML.pdb
+C:\Users\josez\Desktop\git\Atividade-1-2\Projeto XAML\bin\Debug\Projeto XAML.exe.config
+C:\Users\josez\Desktop\git\Atividade-1-2\Projeto XAML\bin\Debug\Projeto XAML.exe
+C:\Users\josez\Desktop\git\Atividade-1-2\Projeto XAML\bin\Debug\Projeto XAML.pdb
+C:\Users\josez\Desktop\git\Atividade-1-2\Projeto XAML\obj\Debug\Projeto XAML.csproj.AssemblyReference.cache
+C:\Users\josez\Desktop\git\Atividade-1-2\Projeto XAML\obj\Debug\Projeto XAML.csproj.SuggestedBindingRedirects.cache
+C:\Users\josez\Desktop\git\Atividade-1-2\Projeto XAML\obj\Debug\MainWindow.g.cs
+C:\Users\josez\Desktop\git\Atividade-1-2\Projeto XAML\obj\Debug\Window1.g.cs
+C:\Users\josez\Desktop\git\Atividade-1-2\Projeto XAML\obj\Debug\WpfCalculator.g.cs
+C:\Users\josez\Desktop\git\Atividade-1-2\Projeto XAML\obj\Debug\App.g.cs
+C:\Users\josez\Desktop\git\Atividade-1-2\Projeto XAML\obj\Debug\Projeto XAML_MarkupCompile.cache
+C:\Users\josez\Desktop\git\Atividade-1-2\Projeto XAML\obj\Debug\Projeto XAML_MarkupCompile.lref
+C:\Users\josez\Desktop\git\Atividade-1-2\Projeto XAML\obj\Debug\MainWindow.baml
+C:\Users\josez\Desktop\git\Atividade-1-2\Projeto XAML\obj\Debug\Window1.baml
+C:\Users\josez\Desktop\git\Atividade-1-2\Projeto XAML\obj\Debug\WpfCalculator.baml
+C:\Users\josez\Desktop\git\Atividade-1-2\Projeto XAML\obj\Debug\Projeto XAML.g.resources
+C:\Users\josez\Desktop\git\Atividade-1-2\Projeto XAML\obj\Debug\Projeto_XAML.Properties.Resources.resources
+C:\Users\josez\Desktop\git\Atividade-1-2\Projeto XAML\obj\Debug\Projeto XAML.csproj.GenerateResource.cache
+C:\Users\josez\Desktop\git\Atividade-1-2\Projeto XAML\obj\Debug\Projeto XAML.csproj.CoreCompileInputs.cache
+C:\Users\josez\Desktop\git\Atividade-1-2\Projeto XAML\obj\Debug\Projeto XAML.exe
+C:\Users\josez\Desktop\git\Atividade-1-2\Projeto XAML\obj\Debug\Projeto XAML.pdb
